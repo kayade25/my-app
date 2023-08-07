@@ -1,2 +1,3 @@
 This is my Second Jenkins Test Update on my-app project
 Another test update for Maven Clean Package without install on Jenkins Server
+A third test update for Maven Clean Package with install on Jenkins Server
